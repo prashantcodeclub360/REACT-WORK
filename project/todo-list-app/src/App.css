@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 600;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-bottom: 2rem;
+}
+
+input 
+{
+  width: 80%;
+}
+.todo-container
+{
+  min-width: 80%;
+}
+.item-container
+{
+  text-align: center;
+}
+.kg-row
+{
+  margin: 10px 5px;
+  min-width: 50%;
+}
+.kg-buut
+{
+  min-width: 80px;
+}
