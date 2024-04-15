@@ -31,3 +31,5 @@ qwik qwik-ts <br>
 - after this we create it or cd in proejct
 - after we installed npm installed
 - after we push finally npm run dev
+
+## advantage of react + vite + tailwind project 
