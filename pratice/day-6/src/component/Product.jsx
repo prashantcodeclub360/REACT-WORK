@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Product() {
+function Product(ImgProductsrc) {
   return (
     <>
 <div class="sp mx-auto max-w-7xl px-2 py-10 lg:px-0">

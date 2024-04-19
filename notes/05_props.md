@@ -11,3 +11,5 @@ React props are like function arguments in javascript and attribute in html
 
 - these are like objects or its help to access in differ data form
 - this use only for read purpose
+- in simple language props are the object which in this we passes the data in differ component
+

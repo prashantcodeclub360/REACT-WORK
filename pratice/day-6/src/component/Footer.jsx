@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Footer() {
+function Footer(Logotitle) {
   return (
     <>
     <section class="relative overflow-hidden  bg-white py-8">
@@ -21,7 +21,7 @@ function Footer() {
                 fill="black"
               ></path>
             </svg>
-            <span class="ml-4 text-lg font-bold">DevUI</span>
+            <span class="ml-4 text-lg font-bold">{Logotitle}</span>
           </div>
         </a>
       </div>
