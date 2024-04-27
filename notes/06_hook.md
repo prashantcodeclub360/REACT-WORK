@@ -24,3 +24,20 @@ There are 3 rules for hooks:
 - To use the state hook , we fisrt need to import into our components  
   <br> import { useState } from "react";
 - with this state we used also a setmethod()
+
+###
+
+The useState Hook can be used to keep track of strings, numbers, booleans, arrays, objects, and any combination of these!
+
+# What is useEffect hook ?
+
+the use effect are to be used for side components or used for faetch data or updating in dom etc
+
+- let suppose we use a timmer in our project or count dependices then we used a effect hook
+- its help to run every render or and have a sevral ways to control when he side effects
+
+### note point
+
+Here is an example of a useEffect Hook that is dependent on a variable. If the count variable updates, the effect will run again:
+
+# 

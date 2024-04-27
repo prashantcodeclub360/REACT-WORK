@@ -3,6 +3,8 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Counter from './Counter'
+import Car from './Car'
+import Useeffect from './Useeffect'
 
 function App() {
   let [data , setData] = useState("prashantcodeclub360")
@@ -19,7 +21,13 @@ function App() {
     </div>   
     <br />
     <Counter ></Counter>
+    <br />
+    <Car />
+    <br />
+    <Useeffect />
+
     </>
+    
   )
 }
 
