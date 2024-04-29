@@ -31,7 +31,7 @@ The useState Hook can be used to keep track of strings, numbers, booleans, array
 
 # What is useEffect hook ?
 
-the use effect are to be used for side components or used for faetch data or updating in dom etc
+the use effect are to be used for side components or used for fetch data or updating in dom etc
 
 - let suppose we use a timmer in our project or count dependices then we used a effect hook
 - its help to run every render or and have a sevral ways to control when he side effects
@@ -40,4 +40,7 @@ the use effect are to be used for side components or used for faetch data or upd
 
 Here is an example of a useEffect Hook that is dependent on a variable. If the count variable updates, the effect will run again:
 
-# 
+# React Context
+
+React Context is a way to manage state globally
+it can be used together with the usestate hook to share state between deeply nested components with usestate alone
